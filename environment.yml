@@ -8,4 +8,4 @@ dependencies:
   - matplotlib
   - tensorflow
   - keras
-  - sklearn
+  - scikit-learn
