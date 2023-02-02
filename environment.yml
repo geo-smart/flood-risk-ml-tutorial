@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - joblib
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - keras
+  - sklearn
