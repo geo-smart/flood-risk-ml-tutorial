@@ -1,4 +1,7 @@
 # flood-risk-ml-tutorial
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-smart/flood-risk-ml-tutorial/HEAD?labpath=Building_Classification.ipynb)
+
 A machine learning tutorial demonstrating building classification for flood risk assessment
 
 Urban flooding causes billions of dollars in damages annually, with severe flood events becoming more frequent and destructive as our climate changes. While extreme weather is a primary driver of flooding, its consequences depend on the interconnectedness of urban systems - referred to as the Urban Multiplex, which includes the power grid, transportation network, natural surface water and groundwater systems, sewerage and drinking water systems, intertwined with the socioeconomic and public health sectors.
