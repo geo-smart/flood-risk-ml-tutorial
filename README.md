@@ -12,5 +12,7 @@ This tutorial introduces machine learning concepts through an application in one
 
 In this tutorial we explore multiple means of classifying a building (residential/classification/industrial/etc.) based on its features (location, square footage, proximity to other resources, etc.). Moreover, we are interested in how accurate or machine learning models can be using only free and open data. The data used in this tutorial is consistently and openly available for the continental Unites States. We use the state of North Carolina as an expemplar in this tutorial.
 
+![ML Predicted Residential Flooding](nc_redidential_flooding_prediction.png)
+
 ### Raw Data and Preprocessing
 The tutorial notebook Building_Classification.ipynb utilizes a machine learning ready dataset provided in this GitHub repo. The raw data used to create the machine learning ready dataset are too large to include here. Raw data are available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7696864.svg)](https://doi.org/10.5281/zenodo.7696864) and our preprocessing scripts can be found in the "preprocessing" folder.
