@@ -1,6 +1,7 @@
 # flood-risk-ml-tutorial
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geo-smart/flood-risk-ml-tutorial/HEAD?labpath=Building_Classification.ipynb)
+[![GeoSMART Library Badge](./use_case_badge.svg)](https://geo-smart.github.io/usecases)
 
 A machine learning tutorial demonstrating building classification for flood risk assessment
 
