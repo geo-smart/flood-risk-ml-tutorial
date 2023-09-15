@@ -4,7 +4,9 @@
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://flood-risk-ml-tutorial.github.io/intro.html)
 [![GeoSMART Library Badge](./use_case_badge.svg)](https://geo-smart.github.io/usecases)
 
-To cite this tutorial use: [![DOI](https://zenodo.org/badge/586902507.svg)](https://zenodo.org/badge/latestdoi/586902507)
+To cite this tutorial use: [![DOI](https://zenodo.org/badge/586902507.svg)](https://zenodo.org/badge/latestdoi/586902507) 
+
+The results of this tutorial are also published in [Enhancing Flood Risk Assessment Through Machine Learn-ing and Open Data](https://doi.org/10.31223/X5XW95)
 
 
 A machine learning tutorial demonstrating building classification for flood risk assessment
